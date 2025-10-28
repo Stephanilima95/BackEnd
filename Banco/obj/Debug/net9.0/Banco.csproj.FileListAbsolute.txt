@@ -1,0 +1,15 @@
+C:\Users\53280190835\Desktop\BackEnd\Banco\bin\Debug\net9.0\Banco.exe
+C:\Users\53280190835\Desktop\BackEnd\Banco\bin\Debug\net9.0\Banco.deps.json
+C:\Users\53280190835\Desktop\BackEnd\Banco\bin\Debug\net9.0\Banco.runtimeconfig.json
+C:\Users\53280190835\Desktop\BackEnd\Banco\bin\Debug\net9.0\Banco.dll
+C:\Users\53280190835\Desktop\BackEnd\Banco\bin\Debug\net9.0\Banco.pdb
+C:\Users\53280190835\Desktop\BackEnd\Banco\obj\Debug\net9.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53280190835\Desktop\BackEnd\Banco\obj\Debug\net9.0\Banco.AssemblyInfoInputs.cache
+C:\Users\53280190835\Desktop\BackEnd\Banco\obj\Debug\net9.0\Banco.AssemblyInfo.cs
+C:\Users\53280190835\Desktop\BackEnd\Banco\obj\Debug\net9.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\53280190835\Desktop\BackEnd\Banco\obj\Debug\net9.0\Banco.sourcelink.json
+C:\Users\53280190835\Desktop\BackEnd\Banco\obj\Debug\net9.0\Banco.dll
+C:\Users\53280190835\Desktop\BackEnd\Banco\obj\Debug\net9.0\refint\Banco.dll
+C:\Users\53280190835\Desktop\BackEnd\Banco\obj\Debug\net9.0\Banco.pdb
+C:\Users\53280190835\Desktop\BackEnd\Banco\obj\Debug\net9.0\Banco.genruntimeconfig.cache
+C:\Users\53280190835\Desktop\BackEnd\Banco\obj\Debug\net9.0\ref\Banco.dll
