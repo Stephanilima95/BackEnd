@@ -1,0 +1,15 @@
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\bin\Debug\net9.0\ExerciciosInterface.exe
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\bin\Debug\net9.0\ExerciciosInterface.deps.json
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\bin\Debug\net9.0\ExerciciosInterface.runtimeconfig.json
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\bin\Debug\net9.0\ExerciciosInterface.dll
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\bin\Debug\net9.0\ExerciciosInterface.pdb
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.AssemblyInfoInputs.cache
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.AssemblyInfo.cs
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.csproj.CoreCompileInputs.cache
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.sourcelink.json
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.dll
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\obj\Debug\net9.0\refint\ExerciciosInterface.dll
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.pdb
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.genruntimeconfig.cache
+C:\Users\53280190835\Desktop\BackEnd\POO\Pilares\interface\ExerciciosInterface\obj\Debug\net9.0\ref\ExerciciosInterface.dll
