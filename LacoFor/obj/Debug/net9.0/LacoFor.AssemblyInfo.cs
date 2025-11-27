@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LacoFor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23a6e991424a670306e1839c8e0fda9b6b4710ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d9ae6299eb75519494d1bf74b5d536dc453da43")]
 [assembly: System.Reflection.AssemblyProductAttribute("LacoFor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LacoFor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
